@@ -1,0 +1,3 @@
+# QuickTypes
+
+QuickType extension unofficial
